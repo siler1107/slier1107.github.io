@@ -1,0 +1,15 @@
+.header {
+    width: 1170px;
+    color: green;
+    height: 70px;
+}
+
+.header-logo {
+    font-size: 25%;
+    float: left;
+}
+
+.header-list {
+    font-size: 15%;
+    float: right;
+}
